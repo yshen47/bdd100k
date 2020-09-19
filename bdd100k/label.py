@@ -16,7 +16,7 @@ Label = namedtuple('Label', [
 
     'trainId',
     # Feel free to modify these IDs as suitable for your method. Then create
-    # ground truth images with train IDs, using the tools provided in the
+    # ground truth images with train IDs, using the tools provided in thedfsdfdsf
     # 'preparation' folder. However, make sure to validate or submit results
     # to our evaluation server using the regular IDs above!
     # For trainIds, multiple labels might have the same ID. Then, these labels
